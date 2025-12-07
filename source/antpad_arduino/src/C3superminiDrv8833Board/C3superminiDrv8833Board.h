@@ -12,7 +12,7 @@
 
 #define LED_PIN 8
 
-#define MOTR_IN1_PIN 7 //in1
+#define MOTR_IN1_PIN 9 //in1
 #define MOTR_IN2_PIN 10 //in2
 
 #define MOTL_IN1_PIN 1 //in3
